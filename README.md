@@ -16,5 +16,5 @@ Stop timer once clicked on the stop button
 On click of reset stop the watch (if already started) and set timer as 0
 
 # Hosted URL 
-stopwatchbyrajat.netlify.app
+(https://stopwatchbyrajat.netlify.app)
 
